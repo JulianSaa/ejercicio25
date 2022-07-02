@@ -1,0 +1,17 @@
+.caja{
+    background-color: rgb(232, 169, 34);
+    height: 73vh;
+    width: 100%;
+    border: 2px solid transparent;
+}
+
+.formulario{
+    background-color:white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 500px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px; 
+}
